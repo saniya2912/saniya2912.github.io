@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Sabarmati Bridge Fellow</a>, IIT Ganshinagar. Robotics Researcher
 
 profile:
   align: right
