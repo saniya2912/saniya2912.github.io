@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV.pdf
+permalink: /assets/pdf/CV_PhD.pdf
 title: cv
 nav: true
 nav_order: 5
