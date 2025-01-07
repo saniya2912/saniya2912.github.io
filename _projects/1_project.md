@@ -10,13 +10,6 @@ related_publications: true
 
 Developing a dynamic sequential grasping strategy for the robotic LEAP hand, utilizing pinch and power grasps, enabling object
 transfer between these grasps, and determining the optimal order for picking the objects. 
-<!-- 
-    <!-- ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    --- --> -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
