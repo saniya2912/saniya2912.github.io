@@ -23,4 +23,4 @@ Robots are cool; change my mind.
 
 I'm passionate about robot dexterity and intelligence! Every day, I get to explore how machines will not only "see" objects but also understand and interact with them—just like we do. From delicate grips to precise movements, my research focuses on the fascinating intersection of AI, robot perception and control, where once-futuristic possibilities are becoming real.
 
-I’m seeking PhD positions and other research opportunities to push these boundaries further. If you're looking for someone as excited about robot dexterity as I am, let's connect!
+I’m seeking opportunities to push these boundaries further. If you're looking for someone as excited about robot dexterity as I am, let's connect!

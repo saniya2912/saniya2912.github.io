@@ -6,6 +6,7 @@ img: assets/img/galpal.png
 importance: 3
 category: work
 related_publications: false
+
 ---
 
 Developed a **privacy-preserving, local LLM–powered wellbeing assistant** integrated with an iPad to analyze handwritten
