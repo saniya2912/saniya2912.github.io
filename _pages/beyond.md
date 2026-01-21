@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Beyond
+title: beyond
 permalink: /beyond/
 nav: true
 nav_order: 4
 description: My hobbies, passions, and projects beyond robotics and tech.
 ---
-
-# Beyond
 
 ## The Wandering Roboticist
 
