@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Campus Shuttle
 description: IIT Gandhinagar 
-img: assets/img/galpal.png
+img: assets/img/autonomous_vehicle.jpeg
 importance: 2
 category: work
 related_publications: true
