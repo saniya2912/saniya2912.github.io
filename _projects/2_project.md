@@ -5,7 +5,7 @@ description: IIT Gandhinagar
 img: assets/img/autonomous_vehicle.jpeg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 

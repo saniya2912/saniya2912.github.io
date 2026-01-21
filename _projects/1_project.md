@@ -5,7 +5,7 @@ description: MRes Project, Imperial College London
 img: assets/img/robotdeniro.jpeg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Ongoing project till September 2026

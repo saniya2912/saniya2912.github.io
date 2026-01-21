@@ -5,7 +5,7 @@ description: Sabarmati Bridge Fellowship, IIT Gandhinagar
 img: assets/img/multiobj_1.PNG
 importance: 4
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Developing a dynamic sequential grasping strategy for the robotic LEAP hand, utilizing pinch and power grasps, enabling object

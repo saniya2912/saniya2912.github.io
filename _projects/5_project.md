@@ -5,7 +5,7 @@ description: Summer Research Internship 2023, University of Washington
 img: assets/img/locobot.jpeg
 importance: 5
 category: work
-related_publications: true
+related_publications: false
 ---
 
  Object recognition in unseen and cluttered indoor
