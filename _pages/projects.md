@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Explored the breadth of robotics through diverse projects at University of Washington, IIT Delhi, and IIT Gandhinagar—an ever-growing collection of innovative solutions.
+description: Explored the breadth of robotics through diverse projects at Imperial College London, University of Washington, IIT Delhi, and IIT Gandhinagar—an ever-growing collection of innovative solutions.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
