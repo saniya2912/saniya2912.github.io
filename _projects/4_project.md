@@ -17,12 +17,15 @@ inferred emotional state from journal analysis, and a self-curated, annotated pe
   <div class="col-sm mt-3 mt-md-0">
     <div class="ratio ratio-16x9">
       <iframe
-        src="https://youtu.be/4_z9DMl_oFI"
-        title="GalPal.ai demo video"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-      </iframe>
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/4_z9DMl_oFI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
     </div>
   </div>
 </div>
