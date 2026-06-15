@@ -16,7 +16,7 @@ Follow my travels and thoughts on Instagram: [@thewanderingroboticist](https://w
 Check out the website where I document my journey and musings:
 
 <iframe 
-  src="https://thewanderingroboticist.space" 
+  src="https://thewanderingroboticist.com" 
   style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px;" 
   title="The Wandering Roboticist Website"
   loading="lazy"
